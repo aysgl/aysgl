@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayşegül Avcu</h1>
-<h3 align="center">A passionate frontend developer from İstanbul</h3>
+<h1>Hi 👋, I'm Ayşegül Avcu</h1>
+<h3>A passionate frontend developer from İstanbul</h3>
 
 - 🌱 I’m currently learning **React Native and Node.js**
 
